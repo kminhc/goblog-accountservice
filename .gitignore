@@ -13,3 +13,5 @@
 
 # license file
 LICENSE
+accounts.db
+accounts.db.lock
